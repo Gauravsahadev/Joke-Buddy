@@ -15,10 +15,13 @@ Give examples
 # Pakages-installation
 1.pypi
   Installation-https://pypi.org/
+
 2.pyfiglet
   Installation-https://pypi.org/project/pyfiglet/
+
 3.termcolor
   Installation-https://pypi.org/project/termcolor/
+
 4.requests
   Installation-https://pypi.org/project/requests/
 
@@ -30,19 +33,19 @@ For Ubuntu:-
 
 1.Installing pypi
 ```
-1.sudo apt-get install python-pip
+sudo apt-get install python-pip
 ```
 2.Installing pyfiglet
 ```
-2.sudo python3 -m pip install pyfiglet
+sudo python3 -m pip install pyfiglet
 ```
 3.Installing termcolor
 ```
-3.sudo python3 -m pip install termcolor
+sudo python3 -m pip install termcolor
 ```
 4.Installing requests
 ```
-4.sudo python3 -m pip install requests
+sudo python3 -m pip install requests
 ```
 
 
