@@ -4,14 +4,6 @@ Just tell it in which topic or any word it will retrieve jokes from that word.
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
 # Pakages-installation
 1.pypi
   Installation-https://pypi.org/
@@ -24,6 +16,15 @@ Give examples
 
 4.requests
   Installation-https://pypi.org/project/requests/
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
 
 ### Installing
 
