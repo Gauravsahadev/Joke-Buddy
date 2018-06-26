@@ -66,6 +66,13 @@ $python3 joke_buddy.py
 
 Enter a word you want the joke for: example: ```cat```
 
+There are 5 jokes available for cat 
+JOKE 1 : Did you hear the joke about the wandering nun? She was a roman catholic.
+
+Enter quit to exit and next for next joke:```next``` 
+JOKE 2 : Why was the big cat disqualified from the race? Because it was a cheetah.
+
+Enter quit to exit and next for next joke: quit
 
 
 
