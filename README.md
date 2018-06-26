@@ -48,6 +48,25 @@ sudo python3 -m pip install termcolor
 ```
 sudo python3 -m pip install requests
 ```
+## Running the tests
+After installing all the required packages.
+
+Go to the folder Joke-Buddy which contains joke_buddy.py.
+
+Run
+```
+python3 joke_buddy.py
+```
+     _  ___  _  _______   ____  _   _ ____  ______   __
+    | |/ _ \| |/ / ____| | __ )| | | |  _ \|  _ \ \ / /
+ _  | | | | | ' /|  _|   |  _ \| | | | | | | | | \ V / 
+| |_| | |_| | . \| |___  | |_) | |_| | |_| | |_| || |  
+ \___/ \___/|_|\_\_____| |____/ \___/|____/|____/ |_|  
+                                                       
+
+Enter a word you want the joke for: example: ```cat```
+
+
 
 
 ## Authors
