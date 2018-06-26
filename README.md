@@ -4,7 +4,7 @@ Just tell it in which topic or any word it will retrieve jokes from that word.
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-# Pakages-installation
+# Packages-installation
 1.pypi
   Installation-https://pypi.org/
 
