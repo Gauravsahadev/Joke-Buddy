@@ -26,7 +26,7 @@ Given examples
 ```
 
 
-### Installing
+### Installation
 
 A step by step series of examples that tell you how to get a install all pakages and running
 
@@ -34,20 +34,13 @@ For Ubuntu:-
 
 1.Installing pypi
 ```
-$sudo apt-get install python-pip
+$sudo apt install python3-pip
 ```
-2.Installing pyfiglet
+2.Install all the dependencies
 ```
-$sudo python3 -m pip install pyfiglet
+$pip3 install -r requirements.txt --user
 ```
-3.Installing termcolor
-```
-$sudo python3 -m pip install termcolor
-```
-4.Installing requests
-```
-$sudo python3 -m pip install requests
-```
+
 ## Running the tests
 After installing all the required packages.
 
