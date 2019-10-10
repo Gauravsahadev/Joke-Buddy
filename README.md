@@ -72,3 +72,4 @@ Enter quit to exit and next for next joke: quit
 ## Authors
 
 * **Gaurav Sahadev** - *Initial work*
+* **Debanjona Bhattacharjya** - *Modifications*
